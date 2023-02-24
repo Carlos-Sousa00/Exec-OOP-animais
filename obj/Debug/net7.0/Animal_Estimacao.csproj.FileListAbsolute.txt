@@ -1,0 +1,15 @@
+B:\Animal_Estimacao\bin\Debug\net7.0\Animal_Estimacao.exe
+B:\Animal_Estimacao\bin\Debug\net7.0\Animal_Estimacao.deps.json
+B:\Animal_Estimacao\bin\Debug\net7.0\Animal_Estimacao.runtimeconfig.json
+B:\Animal_Estimacao\bin\Debug\net7.0\Animal_Estimacao.dll
+B:\Animal_Estimacao\bin\Debug\net7.0\Animal_Estimacao.pdb
+B:\Animal_Estimacao\obj\Debug\net7.0\Animal_Estimacao.csproj.AssemblyReference.cache
+B:\Animal_Estimacao\obj\Debug\net7.0\Animal_Estimacao.GeneratedMSBuildEditorConfig.editorconfig
+B:\Animal_Estimacao\obj\Debug\net7.0\Animal_Estimacao.AssemblyInfoInputs.cache
+B:\Animal_Estimacao\obj\Debug\net7.0\Animal_Estimacao.AssemblyInfo.cs
+B:\Animal_Estimacao\obj\Debug\net7.0\Animal_Estimacao.csproj.CoreCompileInputs.cache
+B:\Animal_Estimacao\obj\Debug\net7.0\Animal_Estimacao.dll
+B:\Animal_Estimacao\obj\Debug\net7.0\refint\Animal_Estimacao.dll
+B:\Animal_Estimacao\obj\Debug\net7.0\Animal_Estimacao.pdb
+B:\Animal_Estimacao\obj\Debug\net7.0\Animal_Estimacao.genruntimeconfig.cache
+B:\Animal_Estimacao\obj\Debug\net7.0\ref\Animal_Estimacao.dll
